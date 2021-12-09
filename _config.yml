@@ -1,17 +1,17 @@
 # site settings
 title: James Garland
-subtitle: by HTML5 UP
-email: youremailaddress@gmail.com
-description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
+#subtitle:
+email: james@jamesgarland.net
+description: Astrophysicist in training, aspiring science communicator, lover of space.
 baseurl: / # the subpath of your site, e.g. /blog
 url: https://jgarland21.github.io/ # the base hostname & protocol for your site
-author:
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
-zip_code: 55555
-country: United States of America
-phone: (716) 555-5555
+author: James Garland
+#street_address:
+#city: Haverford
+#state: PA
+#zip_code: 19041
+#country: United States of America
+phone: (917) 655 7955
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
@@ -22,12 +22,12 @@ tiles-count: 6
 # Icons are not shown if value is empty
 # You need to restart jekyll for changes to have an effect
 socials:
-  GitHub: https://github.com/andrewbanchich
+  GitHub: https://github.com/jgarland21
   GitLab:
-  Google-Plus: https://plus.google.com/u/0/+AndrewBanchich
+  Google-Plus:
   Instagram:
-  LinkedIn: https://www.linkedin.com/in/andrew-banchich-a4ba1195
-  Twitter: https://twitter.com/andrewbanchich
+  LinkedIn: https://www.linkedin.com/in/james-garland/
+  Twitter:
   Facebook:
   Slack:
 
