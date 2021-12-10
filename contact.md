@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Contact
-description: Lorem ipsum dolor est
+description: Get in touch
 image:
 nav-menu: true
 ---
