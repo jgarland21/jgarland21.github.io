@@ -2,7 +2,7 @@
 layout: page
 title: Research
 description: What I'm exploring
-image: assets/images/pic11.jpg
+image: assets/images/ngc1300.png
 nav-menu: true
 ---
 
