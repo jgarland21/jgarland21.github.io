@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Research
 description: What I'm exploring
 image: assets/images/pic11.jpg
