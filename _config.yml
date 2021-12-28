@@ -43,3 +43,6 @@ exclude:
 - CONTRIBUTING.md
 - README.md 
 - all_posts.md
+- elements.md
+- generic.md
+- landing.md
