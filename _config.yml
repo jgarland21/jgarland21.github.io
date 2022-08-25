@@ -46,3 +46,6 @@ exclude:
 - elements.md
 - generic.md
 - landing.md
+
+plugins:
+  - jekyll-target-blank
