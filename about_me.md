@@ -20,17 +20,15 @@ nav-menu: true
 
 <!-- About -->
 
-<p><span class="image right"><img src="{% link assets/images/profile_full.JPG %}" alt="" /></span>I am an astrophysics student at Haverford College, aspiring science communicator, jewelry maker, and self-taught computer programmer from New York City.
-<br><br>
-At Haverford, I have worked with professors Karen Masters and Daniel Grin on studying observational techniques for testing axion dark matter. As Co-Head of Haverford's Strawbridge Observatory public observing nights, I have been able to explore my interests in science education, communication, and outreach.
-<br><br>
-I began pursuing my ambitions in astrophysics under Dr. Michael Shara and Dr. Nathan Leigh in the department of astrophysics research at the Museum of Natural History, co-authoring two papers published in 2017.
-<br><br>
-Outside of academia, I have a passion for jewelry making. For ten years, I studied the craft under the guidance of Amy Haskins. A selection of my work can be found via my portfolio page. Over two summers, I had the pleasure of co-teaching metalworking and jewelry making classes for young students at the 92nd Street Y.
-<br><br>
-In my free time I enjoy astrophotography, writing, and practicing Arabic.
-<br><br>
-If you would like to reach me, send me an <a href="mailto:james@jamesgarland.net?" style="color:#ffffff">email</a> and I'll get back to you as soon as possible.</p>
+<p><span class="image right"><img src="{% link assets/images/profile_full.JPG %}" alt="" /></span>I am a postbac astrophysicist and aspiring science communicator from New York City.</p>
+
+<p>I currently work with Dr. Michael Shara at the American Museum of Natural History, using data from the <a href="https://condorarraytelescope.org/">Condor Array Telescope</a> to study the erruption behavior of classical novae. I also focus on identifying narrowband transients in this data to assess the population of extragalactic cataclysmic variables.</p>
+
+<p>I graduated from Haverford College in 2022 with a B.S. in physics and astronomy, where I worked with professor Karen Masters to produce my senior thesis on observationally testing how tidal interactions between galaxies affect their evolution. I also worked with professors Karen Masters and Daniel Grin on studying observational techniques for testing axion dark matter. As Co-Head of Haverford's Strawbridge Observatory public observing nights, I explored my interests in science education, communication, and outreach.</p>
+
+<p>Outside of academia, I enjoy astrophotography, playing guitar, and making jewelry (a selection of my work can be found <a href="https://imgur.com/a/B5sLG">here</a>).</p>
+
+<p>If you would like to reach me, send me an <a href="mailto:james@jamesgarland.net?">email</a> and I'll get back to you as soon as possible. You can also find me on <a href="https://twitter.com/JamesDoesAstro">Twitter</a>.</p>
 
 </div>
 </section>

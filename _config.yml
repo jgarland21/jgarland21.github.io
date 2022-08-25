@@ -27,7 +27,7 @@ socials:
   Google-Plus:
   Instagram:
   LinkedIn: https://www.linkedin.com/in/james-garland/
-  Twitter:
+  Twitter: https://twitter.com/JamesDoesAstro
   Facebook:
   Slack:
 
@@ -41,7 +41,7 @@ exclude:
 - "*.gemspec"
 - LICENSE.md
 - CONTRIBUTING.md
-- README.md 
+- README.md
 - all_posts.md
 - elements.md
 - generic.md
