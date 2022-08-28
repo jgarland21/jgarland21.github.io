@@ -4,7 +4,7 @@ title: James Garland
 email: james@jamesgarland.net
 description: Astrophysicist in training, aspiring science communicator, lover of space.
 baseurl: / # the subpath of your site, e.g. /blog
-url: https://www.jamesgarland.net/ # the base hostname & protocol for your site
+url: https://www.jamesgarland.net # the base hostname & protocol for your site
 author: James Garland
 #street_address:
 #city: Haverford
