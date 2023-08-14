@@ -1,3 +1,3 @@
 [submodule "CV"]
-	path = CV
+	path = assets/CV
 	url = https://github.com/jgarland21/CV
