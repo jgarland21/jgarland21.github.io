@@ -20,8 +20,6 @@ nav-menu: true
 
 <!-- About -->
 
-<a href="https://github.com/jgarland21/CV/raw/main/CV.pdf/" target="_blank">Test</a>
-
 <p><span class="image right"><img src="{% link assets/images/profile_full.png %}" alt="" /></span>I am a postbac astrophysicist and aspiring science communicator from New York City.</p>
 
 <p>I currently work with Dr. Michael Shara at the American Museum of Natural History, using data from the <a href="https://condorarraytelescope.org/">Condor Array Telescope</a> to study the erruption behavior of classical novae. I also focus on identifying narrowband transients in this data to assess the population of extragalactic cataclysmic variables.</p>
@@ -30,7 +28,9 @@ nav-menu: true
 
 <p>Outside of academia, I enjoy astrophotography, playing guitar, and making jewelry (a selection of my work can be found <a href="https://imgur.com/a/B5sLG">here</a>).</p>
 
-<p>If you would like to reach me, send me an <a href="mailto:james@jamesgarland.net?">email</a> and I'll get back to you as soon as possible. You can also find me on <a href="https://twitter.com/JamesDoesAstro">Twitter</a>.</p>
+<p>You can find my CV <a href="CV/CV.pdf/" target="_blank">here</a>.</p>
+
+<p>If you would like to reach me, send me an <a href="mailto:james@jamesgarland.net?">email</a> and I'll get back to you as soon as possible.</p>
 
 </div>
 </section>
