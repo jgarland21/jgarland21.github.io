@@ -20,6 +20,8 @@ nav-menu: true
 
 <!-- About -->
 
+<a href="https://github.com/jgarland21/CV/raw/main/CV.pdf/" target="_blank">Test</a>
+
 <p><span class="image right"><img src="{% link assets/images/profile_full.png %}" alt="" /></span>I am a postbac astrophysicist and aspiring science communicator from New York City.</p>
 
 <p>I currently work with Dr. Michael Shara at the American Museum of Natural History, using data from the <a href="https://condorarraytelescope.org/">Condor Array Telescope</a> to study the erruption behavior of classical novae. I also focus on identifying narrowband transients in this data to assess the population of extragalactic cataclysmic variables.</p>
