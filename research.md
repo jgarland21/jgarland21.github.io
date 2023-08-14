@@ -4,6 +4,7 @@ title: Research
 description: What I'm exploring
 image: assets/images/ngc1300.png
 nav-menu: true
+order: 2
 ---
 
 <!-- Main -->

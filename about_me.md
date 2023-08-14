@@ -4,6 +4,7 @@ title: About Me
 description: Who I am
 image: assets/images/profile1.png
 nav-menu: true
+order: 1
 ---
 
 <!-- Main -->

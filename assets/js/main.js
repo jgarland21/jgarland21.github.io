@@ -163,7 +163,7 @@
 							.text('')
 							.addClass('primary')
 							.appendTo($this);
-						
+
 						$x.attr('aria-label', $link.text());
 
 						$link = $link.add($x);
@@ -297,6 +297,7 @@
 				.on('click', 'a', function(event) {
 
 					var href = $(this).attr('href');
+					var target = $(this).attr('target');
 
 					event.preventDefault();
 					event.stopPropagation();
@@ -306,7 +307,8 @@
 
 					// Redirect.
 						window.setTimeout(function() {
-							window.location.href = href;
+							//window.location.href = href;
+							window.open(href, target);
 						}, 250);
 
 				});
