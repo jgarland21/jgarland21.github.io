@@ -37,6 +37,9 @@ markdown: kramdown
 sass:
   style: compressed
 
+include:
+  - "CV"
+
 exclude:
 - "*.gemspec"
 - LICENSE.md
