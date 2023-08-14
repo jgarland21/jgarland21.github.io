@@ -24,8 +24,6 @@ order: 2
 <h2>Interests & Current Work</h2>
 <p>Most broadly, I am interested in observational astronomy, both for its own research products as well as its use as a test of computational and theoretical predictions.</p>
 
-<p>For a more comprehensive review of my work and experience, please see my <a href="{% link CV/CV.pdf %}" target="_blank">CV</a>.</p>
-
 <p>Currently, I work with Dr. Michael Shara at the American Museum of Natural History alongside the <a href="https://condorarraytelescope.org/">Condor Array Telescope</a> collaboration on identifying interesting narrowband transients with a focus on cataclysmic variables. In addition, I am using the shell surrounding a dwarf nova to investigate classical nova ejection velocities and erruption timescales.</p>
 
 <p>At Haverford, my focus has been on two projects attempting to better understand how galaxies evolve and what they can tell us about how the universe behaves. This work, done with Professors Karen Masters and Daniel Grin, has led me to a particular interest in extragalactic astronomy, especially in the optical and radio regimes.</p>
