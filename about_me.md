@@ -29,7 +29,7 @@ order: 1
 
 <p>Outside of academia, I enjoy astrophotography, playing guitar, and making jewelry (a selection of my work can be found <a href="https://imgur.com/a/B5sLG">here</a>).</p>
 
-<p>You can find my CV <a href="{% link assets/CV/CV.pdf %}" target="_blank">here</a>.</p>
+<!--<p>You can find my CV <a href="{% link assets/CV/CV.pdf %}" target="_blank">here</a>.</p>-->
 
 <p>If you would like to reach me, send me an <a href="mailto:james@jamesgarland.net?">email</a> and I'll get back to you as soon as possible.</p>
 
