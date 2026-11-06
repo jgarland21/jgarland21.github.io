@@ -2,7 +2,7 @@
 layout: page
 title: About Me
 description: Who I am
-image: assets/images/profile1.png
+image: assets/images/profile_tile.jpg
 nav-menu: true
 order: 1
 ---
@@ -21,7 +21,7 @@ order: 1
 
 <!-- About -->
 
-<p><span class="image right"><img src="{% link assets/images/profile_full.png %}" alt="James Garland" /></span>I am a PhD candidate in the David A. Dunlap Department of Astronomy & Astrophysics at the University of Toronto, where I work with Professor Laurie Rousseau-Nepton and the SIGNALS collaboration. My research focuses on how spiral structure stirs and enriches the gas in nearby galaxies: I map fine-scale variations in chemical abundance across spiral arms, and I am leading a CFHT/SITELLE program to study dust extinction in the HII regions of M33.</p>
+<p><span class="image right"><img src="{% link assets/images/profile_portrait.jpg %}" alt="Portrait of James Garland" /></span>I am a PhD candidate in the David A. Dunlap Department of Astronomy & Astrophysics at the University of Toronto, where I work with Professor Laurie Rousseau-Nepton and the SIGNALS collaboration. My research focuses on how spiral structure stirs and enriches the gas in nearby galaxies: I map fine-scale variations in chemical abundance across spiral arms, and I am leading a CFHT/SITELLE program to study dust extinction in the HII regions of M33.</p>
 
 <p>Before coming to Toronto, I spent a year as a research assistant at the American Museum of Natural History with Dr. Michael Shara, using the <a href="https://condorarraytelescope.org/">Condor Array Telescope</a> to search for extragalactic novae and the faint "super-remnants" that surround recurrent novae. I graduated from Haverford College in 2022 with a B.S. in physics and astronomy, where I worked with Professors Karen Masters and Daniel Grin on tidally induced bars in galaxies and on observational tests of axion dark matter. You can read more about all of this on my <a href="{% link research.md %}">research page</a>.</p>
 
